@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Lukas Trizna</title>
+    <link>https://trizna.cz/home/</link>
+    <description>Recent content in Homes on Lukas Trizna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Feb 2023 19:29:39 +0100</lastBuildDate><atom:link href="https://trizna.cz/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://trizna.cz/home/subheader/</link>
+      <pubDate>Sat, 11 Feb 2023 19:29:39 +0100</pubDate>
+      
+      <guid>https://trizna.cz/home/subheader/</guid>
+      <description>Experienced Embedded Software Engineer with a demonstrated history of working in the semiconductor industry. Skilled in Matlab, Embedded Systems, Field-Programmable Gate Arrays (FPGA), and Control Theory. Strong information technology professional with a Master&amp;rsquo;s degree (Ing.) focused on Cybernetics, Control and Measurement from Brno University of Technology.</description>
+    </item>
+    
+  </channel>
+</rss>

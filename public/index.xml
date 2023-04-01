@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lukas Trizna</title>
+    <link>https://trizna.cz/</link>
+    <description>Recent content on Lukas Trizna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trizna.cz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download original template</title>
+      <link>https://trizna.cz/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Hugo</title>
+      <link>https://trizna.cz/posts/hugogettingstarted/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/posts/hugogettingstarted/</guid>
+      <description>&lt;p&gt;My aim was to play with Virtual Private Server (VPS) and get my own domain. This has begun when I have visited a friend of mine, who has build and maintain his on website using VPS server from &lt;a href=&#34;www.forpsi.com&#34;&gt;Forpsi.com&lt;/a&gt;. Then the website itself is created using framework for building website called &lt;a href=&#34;https://gohugo.io&#34;&gt;HUGO&lt;/a&gt;. So I took a note and in a couple of days I have spent an evening for domain creation and VPS creation on Forpsi.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://trizna.cz/home/subheader/</link>
+      <pubDate>Sat, 11 Feb 2023 19:29:39 +0100</pubDate>
+      
+      <guid>https://trizna.cz/home/subheader/</guid>
+      <description>Experienced Embedded Software Engineer with a demonstrated history of working in the semiconductor industry. Skilled in Matlab, Embedded Systems, Field-Programmable Gate Arrays (FPGA), and Control Theory. Strong information technology professional with a Master&amp;rsquo;s degree (Ing.) focused on Cybernetics, Control and Measurement from Brno University of Technology.</description>
+    </item>
+    
+    <item>
+      <title>Custom embedded design</title>
+      <link>https://trizna.cz/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/home/services/service1/</guid>
+      <description>&lt;p&gt;Experience with embedded design using platform based on STMicroelectronics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Download HUGO template</title>
+      <link>https://trizna.cz/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+    <item>
+      <title>HUGO static website generator</title>
+      <link>https://trizna.cz/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/home/services/service4/</guid>
+      <description>&lt;p&gt;Hugo static website generator can be easily used for simple website creation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python scripting</title>
+      <link>https://trizna.cz/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/home/services/service2/</guid>
+      <description>&lt;p&gt;Have even thought that there must be another way than manually modifying something. It is!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virtual Private Server (VPS)</title>
+      <link>https://trizna.cz/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/home/services/service3/</guid>
+      <description>&lt;p&gt;I am able to maintain Virtual Private Server (VPS). This website is running on the paid VPS from &lt;a href=&#34;www.forpsi.com&#34;&gt;Forpsi.com&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Who am I?</title>
+      <link>https://trizna.cz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/about/</guid>
+      <description> I am an embedded developer from Slovakia.
+My blog VPS Server : Getting started with VPS server Getting started with Hugo : Getting started with Hugo a static website generator. Show more-&amp;gt; </description>
+    </item>
+    
+  </channel>
+</rss>

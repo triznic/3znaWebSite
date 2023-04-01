@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lukas Trizna</title>
+    <link>https://trizna.cz/posts/</link>
+    <description>Recent content in Posts on Lukas Trizna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trizna.cz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started with Hugo</title>
+      <link>https://trizna.cz/posts/hugogettingstarted/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://trizna.cz/posts/hugogettingstarted/</guid>
+      <description>&lt;p&gt;My aim was to play with Virtual Private Server (VPS) and get my own domain. This has begun when I have visited a friend of mine, who has build and maintain his on website using VPS server from &lt;a href=&#34;www.forpsi.com&#34;&gt;Forpsi.com&lt;/a&gt;. Then the website itself is created using framework for building website called &lt;a href=&#34;https://gohugo.io&#34;&gt;HUGO&lt;/a&gt;. So I took a note and in a couple of days I have spent an evening for domain creation and VPS creation on Forpsi.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
