@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lukas Trizna</title>
-    <link>https://trizna.cz/categories/</link>
+    <link>https://www.trizna.cz/categories/</link>
     <description>Recent content in Categories on Lukas Trizna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://trizna.cz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.trizna.cz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,43 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://trizna.cz/home/downloads/download1/</loc>
+    <loc>https://www.trizna.cz/home/downloads/download1/</loc>
   </url><url>
-    <loc>https://trizna.cz/home/services/</loc>
+    <loc>https://www.trizna.cz/home/services/</loc>
   </url><url>
-    <loc>https://trizna.cz/home/recentworks/</loc>
+    <loc>https://www.trizna.cz/home/recentworks/</loc>
   </url><url>
-    <loc>https://trizna.cz/home/downloads/</loc>
+    <loc>https://www.trizna.cz/home/downloads/</loc>
   </url><url>
-    <loc>https://trizna.cz/posts/hugogettingstarted/</loc>
+    <loc>https://www.trizna.cz/posts/hugogettingstarted/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trizna.cz/</loc>
+    <loc>https://www.trizna.cz/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trizna.cz/posts/</loc>
+    <loc>https://www.trizna.cz/posts/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trizna.cz/home/subheader/</loc>
+    <loc>https://www.trizna.cz/home/subheader/</loc>
     <lastmod>2023-02-11T19:29:39+01:00</lastmod>
   </url><url>
-    <loc>https://trizna.cz/home/</loc>
+    <loc>https://www.trizna.cz/home/</loc>
     <lastmod>2023-02-11T19:29:39+01:00</lastmod>
   </url><url>
-    <loc>https://trizna.cz/categories/</loc>
+    <loc>https://www.trizna.cz/posts/showcase/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trizna.cz/home/services/service1/</loc>
+    <loc>https://www.trizna.cz/categories/</loc>
   </url><url>
-    <loc>https://trizna.cz/home/downloads/download2/</loc>
+    <loc>https://www.trizna.cz/home/services/service1/</loc>
   </url><url>
-    <loc>https://trizna.cz/home/services/service4/</loc>
+    <loc>https://www.trizna.cz/home/downloads/download2/</loc>
   </url><url>
-    <loc>https://trizna.cz/home/services/service2/</loc>
+    <loc>https://www.trizna.cz/home/services/service4/</loc>
   </url><url>
-    <loc>https://trizna.cz/tags/</loc>
+    <loc>https://www.trizna.cz/home/services/service2/</loc>
   </url><url>
-    <loc>https://trizna.cz/home/services/service3/</loc>
+    <loc>https://www.trizna.cz/tags/</loc>
   </url><url>
-    <loc>https://trizna.cz/about/</loc>
+    <loc>https://www.trizna.cz/home/services/service3/</loc>
+  </url><url>
+    <loc>https://www.trizna.cz/about/</loc>
   </url>
 </urlset>
