@@ -10,10 +10,10 @@ theme = "hugo-initio"
     phone = "+420 702247054"
     address = "Praha, Česka Republika"
     year = 2023
-    avatar = "images/profilePhoto.jpg"
+    avatar = "images/guy.jpg"
     avatarclass = "circle"
     background = ""
-    banner = "images/cataniaLab.jpg"
+    banner = "images/bg_head.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
     author = "Sergey Pozhilov (GetTemplate.com)"
@@ -39,14 +39,15 @@ theme = "hugo-initio"
     weight = 5
 
 [params.disqus]
-    site = "hugo-initio-site.disqus.com"
+    site = ""
 
 [params.sharethis]
-    property = "123456789012345678901234"
+    # property = "123456789012345678901234"
+    property = ""
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = ""
 
 [[params.social]]
 	title = "facebook"
